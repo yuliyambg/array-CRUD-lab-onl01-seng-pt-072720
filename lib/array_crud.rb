@@ -2,8 +2,8 @@ def create_an_empty_array
   array=[]
 end
 
-def create_an_array(pupies)
-  pupies=["bulldog", "terrier", "poodle","something"]
+def create_an_array
+  ["bulldog", "terrier", "poodle","something"]
 end
 
 def add_element_to_end_of_array(array, element)
